@@ -86,6 +86,7 @@ This project demonstrates strong command over:
 - Perform cohort analysis
 
 **ER Diagram Color Coding**
+
 Here’s the clean breakdown of what each color represents in your ER diagram:
 
 🟢 Green:	Product Management (Inventory side):	_Category, Brand, Product_
