@@ -85,6 +85,15 @@ This project demonstrates strong command over:
 - Implement window functions for deeper insights
 - Perform cohort analysis
 
+**ER Diagram Color Coding**
+Here’s the clean breakdown of what each color represents in your ER diagram:
+
+🟢 Green:	Product Management (Inventory side):	_Category, Brand, Product_
+🔴 Red:	Order Management (Sales side):	_Orders, OrderDetail, Customer_
+🟣 Purple: Activity / Interaction Tracking (CRM actions): 	_Activity_
+🟡 Yellow: 	Sales Pipeline / CRM (Leads & Deals):	_Lead, Deal, Address_
+🔵 Blue: 	Organization / Internal Structure:	_Employee, Departments, ActivityEmployees_
+⚪ White / Grey: 	Relationships / Connectors	Foreign key links between tables
 
 This project reflects my transition from writing SQL queries to performing real-world business analytics using SQL.
 
